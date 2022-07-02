@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Stefano de Sousa Rocha",
+      "email": "stefanosou",
+      "id": 4
+    },
+    {
+      "name": "junior alterado",
+      "email": "junior@",
+      "id": 5
+    }
+  ]
+}
